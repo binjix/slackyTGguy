@@ -29,7 +29,8 @@ don't worry if you're non technical  - this will walk you through it step by ste
 
 4. **install the required packages**
    - in pycharm, go to "view" > "tool windows" > "terminal"
-   - in the terminal, type: `pip install -r requirements.txt`
+   - in the terminal, type: `pip3 install -r requirements.txt`
+   - in the terminal, then type: `pip3 install "python-telegram-bot[job-queue]"`
 
 5. **set up your telegram bot**
    - open telegram and search for "@botfather"
