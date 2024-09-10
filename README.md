@@ -11,7 +11,7 @@ hey bd friends 👋 this bot helps crypto communities keep track of their telegr
 
 ## how to set it up (for beginners)
 
-don't worry if you're not a tech whiz - we'll walk you through it step by step!
+don't worry if you're non technical  - this will walk you through it step by step!
 
 1. **get the stuff you need**
    - download and install [python](https://www.python.org/downloads/) (choose the latest version)
@@ -56,11 +56,11 @@ don't worry if you're not a tech whiz - we'll walk you through it step by step!
 9. **invite the bot to your groups**
    - in telegram, add your new bot to any groups you want it to watch
 
-and you're done! the bot should now be running and keeping an eye on your telegram groups. if you run into any trouble, feel free to ask for help!
+and you're done! the bot should now be running and keeping an eye on your telegram groups. if you run into any trouble, feel free to ask binji in that twitter post (assuming thats where you found this)
 
 ## want to help out?
 
-jk man i did this in like 3 hours, i'll need you to buy me food before i touch code again, don;t expect this to be maintained, but i think it just works :) 
+jk man i did this in like 3 hours, i'll need you to buy me food before i touch code again, don;t expect this to be maintained, but i think it should just work :) 
 
 ## legal stuff
 
