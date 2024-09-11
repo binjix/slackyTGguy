@@ -15,8 +15,8 @@ don't worry if you're non technical - this will walk you through it step by step
 
 ### get the stuff you need
 
-1. download and install python (choose the latest version, 3.9+ recommended)
-2. download and install pycharm community edition (it's free!)
+- download and install [python](https://www.python.org/downloads/) (choose the latest version)
+- download and install [pycharm community edition](https://www.jetbrains.com/pycharm/download/) (it's free!)
 
 ### grab the code
 
