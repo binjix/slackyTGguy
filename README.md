@@ -8,6 +8,7 @@ hey bd friends 👋 this bot helps crypto communities keep track of their telegr
 - tells you in slack or discord if someone's message hasn't been answered
 - lets you jump right to the telegram message from slack or discord
 - cleans up slack/discord notifications once someone's replied in telegram
+- ensures that only partner messages get flagged, not team members' 
 
 ## how to set it up (for beginners)
 
